@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -m751 dir_codingschool
+mkdir -m751 dir_0x01-shell_permissions
